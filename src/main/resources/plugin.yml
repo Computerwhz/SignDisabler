@@ -1,0 +1,12 @@
+name: SignDisabler
+version: '${project.version}'
+main: com.computerwhz.signdisabler.SignDisabler
+api-version: '1.21'
+load: STARTUP
+
+commands:
+  signdisabler:
+    permission: signdisabler.admin
+
+permission:
+  signdisabler.bypass:
