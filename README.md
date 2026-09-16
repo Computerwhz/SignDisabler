@@ -20,7 +20,7 @@ The `/signdisabler` command takes up to 3 args
 | /signdisabler | disable       |        |            | Pause plugin operation                              |
 | /signdisabler | globaldisable | true   |            | Disable signs for all players                       |
 | /signdisabler | globaldisable | false  |            | Only disable sign for players added to disable list |
-| /signdisabler | player        | add    | <Username> |                                                     |
+| /signdisabler | player        | add    | \<Username\> |                                                     |
 | /signdisabler | player        | list   |            |                                                     |
-| /signdisabler | player        | remove | <Username> |                                                     |
+| /signdisabler | player        | remove | \<Username\> |                                                     |
 
